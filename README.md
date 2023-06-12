@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongk1m&show_icons=true&theme=blueberry) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongk1m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- ### Back-end(Main-Tech)
+ ### Back-end
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
