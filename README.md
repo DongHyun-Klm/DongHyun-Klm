@@ -1,18 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=KIM%20DONGHYUN&fontSize=40)
 
-<!--
-**dongk1m/dongk1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongk1m&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongk1m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongk1m&show_icons=true&theme=radical)
+</div>
+<div align="center">
+ 
+  
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkfdkdlel)](https://solved.ac/profile/gkfdkdlel)
+ [![mazandi profile](http://mazandi.herokuapp.com/api?handle=pro3069&theme=dark)](https://solved.ac/profile/gkfdkdlel)
+</div>
