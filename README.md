@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=KIM%20DONGHYUN&fontSize=40&animation=twinkling)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongk1m&show_icons=true&theme=blueberry) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongk1m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyun-Klm&show_icons=true&theme=blueberry) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyun-Klm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ### Back-end
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
