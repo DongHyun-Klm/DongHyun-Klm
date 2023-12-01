@@ -23,6 +23,6 @@
  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=gkfdkdlel&theme=dark)](https://solved.ac/profile/gkfdkdlel)
 
  
-<!--  ### Tistory blog -->
+<!--  ### Tistory blog  -->
  
 </div>
